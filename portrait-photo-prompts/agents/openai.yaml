@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portrait Photo Prompts"
+  short_description: "Portrait prompt packs for OpenAI images."
+  default_prompt: "Generate a professional portrait photoshoot prompt pack."
