@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fantasy Drama Prompts"
+  short_description: "OpenAI-first fantasy drama prompts."
+  default_prompt: "Turn a fantasy web-novel scene into an OpenAI-first storyboard prompt pack."
